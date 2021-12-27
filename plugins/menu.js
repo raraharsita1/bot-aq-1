@@ -44,7 +44,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Link Group Bot:
+│ Sewa Bot:
 │ %github
 ╰────
 %readmore`.trimStart(),
