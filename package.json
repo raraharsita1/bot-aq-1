@@ -1,5 +1,5 @@
 {
-  "name": "wabot-aq",
+  "name": "Null Bot",
   "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -22,7 +22,7 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/RTeam1/wabot-aq",
+  "homepage": "https://github.com/saipulanuar/wabot-aq-1",
   "author": {
     "name": "Nurutomo"
   },
