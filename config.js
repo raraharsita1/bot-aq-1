@@ -21,7 +21,7 @@ teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
 
-global.owner = ['6288279268363', '79224816516'] // Put your number here
+global.owner = ['62895410650067', '79224816516'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -49,7 +49,7 @@ const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
  // var sticker_name = 'I hope you\'re fine'
   //var sticker_author = 'Nurutomo'
-  var sticker_name = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧' // ganti aja
+  var sticker_name = '𝙉𝙪𝙡𝙡 𝘽𝙤𝙩' // ganti aja
 
 var sticker_author = '' // ganti aja
 } else {
@@ -81,20 +81,20 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (RyuuZeyy)
-gc1 = 'https://chat.whatsapp.com/G30dx0vWbDNBbl6xLabgDh'
-gc2 = 'https://chat.whatsapp.com/G30dx0vWbDNBbl6xLabgDh'
-gc3 = 'https://chat.whatsapp.com/G30dx0vWbDNBbl6xLabgDh'
-namaig = 'https://instagram.com/Raraharsita2'
+gc1 = 'http://wa.me/62895410650067?text=assalamuallaikum+kak+aku+mau+sewa+bot'
+gc2 = 'http://wa.me/62895410650067?text=assalamuallaikum+kak+aku+mau+sewa+bot'
+gc3 = 'http://wa.me/62895410650067?text=assalamuallaikum+kak+aku+mau+sewa+bot'
+namaig = 'https://instagram.com/Veteran_putra'
 linkf = gc1
 linkff = namaig
-namabot = '𝙆𝙞𝙣𝙜 𝙊𝙛 𝘽𝙚𝙖𝙧'
+namabot = '𝙉𝙪𝙡𝙡 𝘽𝙤𝙩'
 namagithub = 'https://github.com/SaipulAnuar'
 gcid = '972502255007-1406453544'
-footer = '𝙆𝙞𝙣𝙜 𝙊𝙛 𝘽𝙚𝙖𝙧'
+footer = '𝙉𝙪𝙡𝙡 𝘽𝙤𝙩'
 lolkey = 'rey2k21'
 global.wait = 'Tunggu Sebentar'
 bc = 'Bear'
 titler = run
-body = '𝙆𝙞𝙣𝙜 𝙊𝙛 𝘽𝙚𝙖𝙧'
+body = '𝙉𝙪𝙡𝙡 𝘽𝙤𝙩'
 gambar1 = tum1
 gambar2 = tum2
